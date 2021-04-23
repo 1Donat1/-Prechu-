@@ -1,0 +1,17 @@
+:root {
+    --content-width: 980px;
+    --main-font-color: #6f7173;
+    --secondary-color: #5094f2;
+    --font-lg:30px;
+    --font-md: 16px;
+    --font-xlg: 22px;
+    --container-x-offset: 15px;
+    --container-y-offset: 0;
+    --main-font-family: 'Open Sans', sans-serif;
+--services-width:195px;
+--services-height:185px;
+--font-lg--767:17px;
+--font-lg--500:13px;
+--font-md--767: 13px;
+--font-md--500:10px;
+}

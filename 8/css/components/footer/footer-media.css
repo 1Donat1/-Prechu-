@@ -1,0 +1,51 @@
+@media (max-width: 980px) {
+  footer {
+    margin:20px 0 ;
+  }
+.footer-href{
+  margin-top: 20px;
+}
+
+  
+  }
+
+
+
+@media (max-width: 767px) {
+  
+footer {
+    margin:15px 0 ;
+  }
+  
+ .footer-href{
+  margin-top: 15px;
+}
+.footer-href a{
+  font-size: var(--font-md--767);
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+@media (max-width: 500px) {
+  
+footer {
+    margin:10px 0 ;
+  }
+  .footer-href{
+  margin-top: 10px;
+}
+.footer-href a{
+  font-size: var(--font-md--500);
+}
+
+}

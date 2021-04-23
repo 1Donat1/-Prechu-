@@ -1,0 +1,42 @@
+
+@media (max-width: 980px) {
+
+    header .logo img {
+        width: 75%;
+    }
+
+    header menu li {
+        padding: 15px 10px;
+    }
+
+    header menu a {
+        font-size: var(--font-md);
+    }
+
+}
+
+
+
+
+
+@media (max-width: 500px) {
+
+    header .header-content-wrapper {
+        padding: 10px 0;
+    }
+    .logo{
+           visibility: hidden 
+    }
+     
+    header menu li {
+        border-bottom: none;
+        border-right: 2px solid transparent;
+        padding: 5px 15px;
+        margin: 10px 0;
+    }
+
+   
+
+    
+
+}

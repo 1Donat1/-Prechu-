@@ -1,0 +1,160 @@
+@media (max-width: 980px) {
+  
+
+  .services{
+    margin-top: 20px;
+  }
+
+  .pencil img {
+       width:50px;
+      
+      
+    }
+    .pencil{
+      width: 120px;
+     height: 120px;
+     margin: 20px auto;
+    }
+    .computer img {
+       width:50px;
+      
+    }
+    .computer{
+      width: 120px;
+     height: 120px;
+      margin: 20px auto ;
+    }
+    .bag img {
+       width:50px;
+
+      
+    }
+    .bag{
+      width: 120px;
+     height: 120px;
+      margin: 20px auto ;
+    }
+    .services-content{
+  padding:20px;
+  
+ 
+}
+
+    .services-text h3{
+      
+      margin-bottom:5px;
+    }
+  .services-text p {
+   
+  }
+
+
+
+}
+@media (max-width: 767px) {
+  
+
+  .services{
+    margin-top: 15px;
+  }
+
+  .pencil img {
+       width:40px;
+      
+      
+    }
+    .pencil{
+      width: 100px;
+     height: 100px;
+     margin: 15px auto;
+    }
+    .computer img {
+       width:40px;
+      
+    }
+    .computer{
+      width: 100px;
+     height: 100px;
+      margin: 15px auto ;
+    }
+    .bag img {
+       width:40px;
+
+      
+    }
+    .bag{
+      width: 100px;
+     height: 100px;
+      margin: 15px auto ;
+    }
+    .services-content{
+  padding:15px;
+  
+ 
+}
+
+    .services-text h3{
+      font-size: var(--font-lg--767);
+       margin-bottom:10px;
+    }
+  .services-text p {
+    font-size: var(--font-md--767);
+  }
+
+
+
+}
+
+
+
+
+
+
+
+
+@media (max-width: 500px) {
+  .services{
+    margin-top: 10px;
+  }
+
+  .pencil img {
+       width:35px;
+      
+      
+    }
+    .pencil{
+      width: 80px;
+     height: 80px;
+    padding: 5px auto ;
+    }
+    .computer img {
+       width:35px;
+      
+    }
+    .computer{
+      width: 80px;
+     height: 80px;
+      padding: 5px auto;
+    }
+    .bag img {
+       width:35px;
+
+      
+    }
+    .bag{
+      width: 80px;
+     height: 80px;
+      padding: 5px auto;
+    }
+
+    .services-text h3{
+      font-size:var(--font-lg--500);
+      margin-bottom:5px;
+    }
+  .services-text p {
+    font-size: var(--font-md--500);
+  }
+
+
+
+}

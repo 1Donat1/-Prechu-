@@ -1,0 +1,14 @@
+$container-x-offset: 15px;$container-y-offset: 0;$main-font-family: 'Open Sans', sans-serif; $font-md: 16px;
+$content-width: 980px;
+
+
+body {
+    font-family:$main-font-family;
+    font-size: $font-md;
+.container {
+    max-width: $content-width;
+    margin: 0 auto;
+    padding:$container-y-offset $container-x-offset;    
+     box-sizing: border-box;
+  }
+}

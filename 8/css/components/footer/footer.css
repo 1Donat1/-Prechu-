@@ -1,0 +1,18 @@
+footer{
+	margin: 40px 0 ;
+	border: 2px solid #e5e5e5;
+	border-style: solid none none none;
+
+}
+
+
+.footer-href{
+	margin-top: 40px;
+	 text-align: center;
+}
+.footer-href a{
+  
+	text-decoration: none;
+	color: var(--main-font-color);
+
+}

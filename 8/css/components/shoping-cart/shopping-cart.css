@@ -1,0 +1,31 @@
+.shoping-cart{
+	margin-top:90px;
+}
+.shoping-cart-wrapper{
+	display: flex;
+	margin-top: 20px;
+}
+
+
+.shoping-cart-info{
+	width: 50%;
+}
+.shoping-cart-logo{
+	width: 50%;
+}
+h1{
+	color: var(--main-font-color) ;
+	font-size: var(--font-lg);
+	margin-bottom: 35px;
+}
+h3{
+	color: var(--main-font-color) ;
+	font-size: var(--font-xlg);
+	margin-bottom:30px;
+
+}
+.shoping-cart-info p{
+	font-size: var( --font-md);
+	line-height: 30px;
+	color: var(--main-font-color);
+}
